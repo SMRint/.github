@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="img/SMR2_GHportada.png"
-       alt="SMR2 2026-2027 · Aplicaciones Web · Ampliación de Aplicaciones Web · Seguridad Informática"
-       width="100%">
+  <img src="LM_front.png"
+       alt="SMRINT 2026-2027 · Aplicaciones Web (Intro) · Aplicaciones Web · Digitalización"
+       width="75%">
 </p>
 
 # 🖥️ FP INTENSIVA // 2026–2027
