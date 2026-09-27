@@ -1,2 +1,3 @@
 # .github
-Portada
+
+Repositorio para la portada para **1SMRINT**
